@@ -8,6 +8,7 @@ This project demonstrates full-stack web development using Java backend technolo
 # 🚀 Features
 
 User Registration and Login
+
 Browse electronic gadgets
 View gadget details
 Add gadgets to cart

@@ -1,61 +1,43 @@
-# GadgetHub
-GadgetHub – Electronic Gadget Purchasing Web Application
-📌 Project Overview
+# GadgetHub – Electronic Gadget Purchasing Web Application
+# 📌 Project Overview
 
 GadgetHub is a web-based electronic gadget purchasing application developed using Core Java(JSE),Advannce Java(JEE), Servlets, JSP, and SQL. The application allows users to browse, view, and purchase electronic gadgets through a simple and user-friendly interface.
 
 This project demonstrates full-stack web development using Java backend technologies and database integration.
 
-🚀 Features
+# 🚀 Features
 
 User Registration and Login
-
 Browse electronic gadgets
-
 View gadget details
-
 Add gadgets to cart
-
 Purchase electronic products
-
 Admin can manage products
-
 CRUD operations for gadgets
-
 Database connectivity using JDBC
 
-🛠️ Technologies Used
-Frontend
-
+# 🛠️ Technologies Used
+# Frontend
 HTML
-
 CSS
-
 JSP (Java Server Pages)
 
-Backend
-
+# Backend
 Java
-
 Java Servlets
-
 JDBC
 
-Database
+# Database
+Oracal SQL
 
-MySQL
-
-Server
-
+# Server
 Apache Tomcat
 
-Tools
-
-Eclipse IDE
-
+# Tools
+NetBeans
 Git & GitHub
 
-📂 Project Structure
+# 📂 Project Structure
 GadgetHub
 │
 ├── src/
@@ -74,57 +56,35 @@ GadgetHub
 └── README.md
 ⚙️ Installation & Setup
 
-Clone the repository
+# Clone the repository
 
-git clone https://github.com/yourusername/gadgethub.git
-
+git clone 
 Import project into Eclipse IDE
-
 Configure Apache Tomcat Server
-
-Create database in MySQL
-
+Create database in SQL
 CREATE DATABASE gadgethub;
-
 Import SQL file
-
 Run the project on Tomcat Server
-
 Open browser
-
 http://localhost:8080/gadgethub
-📸 Screenshots
 
-(Add screenshots of your project here)
-
-Home Page
-
+# Home Page
 Product Listing
-
 Product Details
-
 Purchase Page
 
-🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
 Through this project I learned:
-
 Java Web Development
-
 Servlet and JSP architecture
-
 JDBC database connectivity
-
 CRUD operations
-
 MVC architecture
-
 GitHub project management
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Piyush Singh
 Java Full Stack Developer 
-
-If you want, I can also give you 🔥 a more attractive GitHub README with badges, icons, and better formatting that will look very professional for recruiters.
  
